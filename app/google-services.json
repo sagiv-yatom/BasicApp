@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473172848926",
+    "project_id": "chat-app-ee965",
+    "storage_bucket": "chat-app-ee965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473172848926:android:d151a32dbe0be5010c990f",
+        "android_client_info": {
+          "package_name": "huji.postpc.y2021.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473172848926-90213r7ijaq7gd60grpbbs58e04bs8gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJE2sCJewe2cQM4RH7QMuqbrYRsx2ThBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473172848926-90213r7ijaq7gd60grpbbs58e04bs8gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
